@@ -9,6 +9,11 @@
 
 ]]
 
+warn = function() end
+print = function() end
+error = function() end
+
+
 if debugX then
 	warn('Initialising Rayfield')
 end
